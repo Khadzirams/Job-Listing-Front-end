@@ -10,7 +10,7 @@ const Home = () => {
     <div className="bg-black py-3">
       <div className="container mx-auto flex  justify-between">
         <Link to='/'>
-        <h1 className=" font-extrabold text-xl text-white">Tech~Jobs</h1>
+        <h1 className=" font-extrabold text-xl text-white"> K~Tech~Jobs</h1>
         </Link>
         <Link to='/PostJobs'>
         <button className="border-2 py-2 px-4 font-bold rounded-2xl text-white cursor-pointer "> POST JOB</button>

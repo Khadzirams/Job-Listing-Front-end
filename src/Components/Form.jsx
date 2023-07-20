@@ -39,7 +39,7 @@ const Form = () => {
     > 
       <div className=" flex justify-between mt-0 mx-5">
         <Link to='/'>
-       <div> <h1 className=" font-extrabold text-xl text-white">Tech~Jobs</h1></div>
+       <div> <h1 className=" font-extrabold text-xl text-white">K~Tech~Jobs</h1></div>
        </Link>
 
        <Link to='/ListingPage'>

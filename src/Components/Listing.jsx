@@ -22,7 +22,7 @@ const Listing = () => {
        <div className="bg-black py-3">
       <div className="container mx-auto flex justify-between">
       <Link to='/'>
-        <h1 className=" font-extrabold text-xl text-white"> Tech~Jobs</h1>
+        <h1 className=" font-extrabold text-xl text-white"> K~Tech~Jobs</h1>
       </Link>
 
       <Link to='/PostJobs'>

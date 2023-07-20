@@ -1,5 +1,6 @@
 import React from 'react'
 import JobImg from "../assets/istockphoto-693293382-612x612.jpg"
+import QuoteImg from "../assets/Qoute-Img.jpg"
 
 
 function JobSection() {

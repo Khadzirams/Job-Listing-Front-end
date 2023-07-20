@@ -12,14 +12,14 @@ const MoreInfo =() => {
        <div>
         <div className=" flex justify-between  bg-black py-3">
           <Link to='/'>
-        <h1 className=" font-extrabold text-xl text-white">Tech~Jobs</h1>
+        <h1 className=" font-extrabold text-xl text-white"> K~Tech~Jobs</h1>
         </Link>
         <Link to='/ListingPage'>
         <button className="border-2 py-2 px-4 font-bold rounded-2xl text-white cursor-pointer "> BACK</button>
         </Link>
         </div>
-        <div className="flex  flex-col gap-10 mt-10">
-               <button className="border-2 py-2 px-4 font-bold rounded-2xl text-white bg-black cursor-pointer w-50% ">{job_title}<br/>{address}<br/>{about_company}<br/>{employement}<br/>{roles_responsibilities}<br/>{qualification}<br/>{experience}</button>     
+        <div className="flex  flex-col gap-10 mt-10 ">
+               <button className="border-2 py-2 px-4 font-bold rounded-2xl text-white bg-black cursor-pointer w-50% align-middle">Job-title:{job_title}<br/>Job-Address:{address}<br/>About-company:{about_company}<br/>Employement-Type:{employement}<br/>Roles and responsibilities{roles_responsibilities}<br/>Qualification:{qualification}<br/>Experience:{experience}</button>     
         </div>
       </div>
   
